@@ -14,7 +14,7 @@ description: A virtual proof that I'm awesome
 #url: "https://example.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
