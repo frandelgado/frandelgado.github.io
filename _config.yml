@@ -22,8 +22,7 @@ baseurl: ""
 navbar-links:
   Class Material:
     - Data structures & algorithms: "material/EDA"
-    - infovis: "material/mm13/main.html"
-    - Randominus: "http://www.markdowntutorial.com/"
+    - infovis: "material/infovis/main.md"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
