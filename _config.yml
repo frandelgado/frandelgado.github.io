@@ -22,6 +22,7 @@ baseurl: ""
 navbar-links:
   Class Material:
     - Data structures & algorithms: "material/EDA"
+    - infovis: "material/mm13/main.html"
     - Randominus: "http://www.markdowntutorial.com/"
   About Me: "aboutme"
 
@@ -67,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "fdelgado@itba.edu.ar"
-  github: fdelgado96
+  github: frandelgado
   twitter: frandelgado57
 #  reddit: yourname
 #  linkedin: daattali
